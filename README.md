@@ -21,8 +21,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -46,8 +44,6 @@
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -63,8 +59,6 @@
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -94,8 +88,6 @@ This section should list any major frameworks that you built your project using.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -134,8 +126,6 @@ npm install
 const API_KEY = 'ENTER YOUR API';
 ```
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -143,14 +133,10 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -163,14 +149,10 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -178,8 +160,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -194,9 +174,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
