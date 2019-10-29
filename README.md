@@ -6,9 +6,6 @@
 -->
 
 
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -23,8 +20,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -49,8 +44,6 @@
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -58,6 +51,7 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
+  * [Dependencies](#dependencies)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
@@ -66,12 +60,13 @@
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+<!-- include if fork -->
+This project started as a fork of [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
@@ -84,13 +79,15 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
+<!-- If you have hosted your project (ex: Heroku) l -->
+Project demo hosted [here](https://example.com)
+
+<!-- you can use the dependencies instead based on your project -->
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -105,6 +102,13 @@ This is an example of how to list things you need to use the software and how to
 ```sh
 npm install npm@latest -g
 ```
+
+### Dependencies
+
+This is an example list of dependencies present/used in the project
+ - pandas
+ - numpy
+ - tqdm
 
 ### Installation
 
@@ -122,8 +126,6 @@ npm install
 const API_KEY = 'ENTER YOUR API';
 ```
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -131,14 +133,10 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -151,14 +149,10 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -166,8 +160,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -182,9 +174,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
