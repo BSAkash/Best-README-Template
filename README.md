@@ -6,9 +6,6 @@
 -->
 
 
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -58,6 +55,7 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
+  * [Dependencies](#dependencies)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
@@ -73,6 +71,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+<!-- include if fork -->
+This project started as a fork of [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
 Here's why:
@@ -84,6 +85,10 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
+<!-- If you have hosted your project (ex: Heroku) l -->
+Project demo hosted [here](https://example.com)
+
+<!-- you can use the dependencies instead based on your project -->
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
@@ -105,6 +110,13 @@ This is an example of how to list things you need to use the software and how to
 ```sh
 npm install npm@latest -g
 ```
+
+### Dependencies
+
+This is an example list of dependencies present/used in the project
+ - pandas
+ - numpy
+ - tqdm
 
 ### Installation
 

@@ -1,17 +1,7 @@
 <!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
 *** To avoid retyping too much info. Do a search and replace for the following:
 *** github_username, repo, twitter_handle, email
 -->
-
-
-
 
 
 <!-- PROJECT SHIELDS -->
@@ -55,8 +45,6 @@
 </p>
 
 
-
-<!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -64,6 +52,7 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+  * [Dependencies](#dependencies)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
@@ -72,17 +61,21 @@
 * [Acknowledgements](#acknowledgements)
 
 
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+<!-- include if fork -->
+This project started as a fork of [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo`, `twitter_handle`, `email`
 
+<!-- If you have hosted your project (ex: Heroku) l -->
+Project demo hosted [here](https://example.com)
 
+<!-- you can use the dependencies instead based on your project -->
 ### Built With
 
 * []()
@@ -90,8 +83,6 @@ Here's a blank template to get started:
 * []()
 
 
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
@@ -103,6 +94,13 @@ This is an example of how to list things you need to use the software and how to
 ```sh
 npm install npm@latest -g
 ```
+
+### Dependencies
+
+This is an example list of dependencies present/used in the project
+ - []()
+ - []()
+ - []()
 
 ### Installation
  
@@ -116,25 +114,21 @@ npm install
 ```
 
 
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources. You may also link to the wiki or documentation page.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
-
-<!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
 
 
-
-<!-- CONTRIBUTING -->
 ## Contributing
+
+This can also be further explained in CONTRIBUTING.md
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -145,15 +139,11 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
-<!-- CONTACT -->
 ## Contact
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
@@ -168,9 +158,6 @@ Project Link: [https://github.com/github_username/repo](https://github.com/githu
 * []()
 * []()
 * []()
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
