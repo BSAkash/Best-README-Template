@@ -26,7 +26,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h2 align="center">YOUR_TITLE</h2>
 
   <p align="center">
     YOUR_SHORT_DESCRIPTION
@@ -45,18 +45,19 @@
 
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Dependencies](#dependencies)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Dependencies](#dependencies)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 
 ## About The Project
@@ -76,9 +77,9 @@ Project demo hosted [here](https://example.com)
 <!-- you can use the dependencies instead based on your project -->
 ### Built With
 
-* []()
-* []()
-* []()
+ - []()
+ - []()
+ - []()
 
 
 ## Getting Started
@@ -87,8 +88,9 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
+You can mention about your os specific stuff here which you used and tips for other if any
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+ - npm
 ```sh
 npm install npm@latest -g
 ```
@@ -156,9 +158,9 @@ Project Link: [https://github.com/github_username/repo](https://github.com/githu
 
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+ - []()
+ - []()
+ - []()
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
